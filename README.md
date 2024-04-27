@@ -1,6 +1,7 @@
 ## How to run
 
 `npm i` / `npm install`
+
 `npm run dev`
 
 # My thoughts
